@@ -15,7 +15,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/5b076c3b-9f42-488d-8a87-8de1304470ca.webp
-  altText: Project image
+  altText: ''
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
