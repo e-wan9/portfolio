@@ -3,9 +3,7 @@ type: ProjectLayout
 title: The Richest Man In Babylon
 date: '2024-07-18'
 client: 'Type : Money Mindset'
-description: >-
-  In this book , the author convey the  key idea of mindset of wealth using
-  stories.
+description: 本書作者利用小故事的型態來傳達他對金錢的看法。
 featuredImage:
   type: ImageBlock
   url: /images/bal12732_1024x1024.jpeg.webp
