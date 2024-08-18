@@ -28,7 +28,7 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
-# 思維
+### 思維
 
 *   巴比倫的背後含意：一個人能實現報復的實力
 
