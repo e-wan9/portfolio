@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: Projects
+title: DATASET
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
