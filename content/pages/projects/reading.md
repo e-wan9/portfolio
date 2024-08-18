@@ -3,7 +3,7 @@ type: ProjectLayout
 title: The Richest Man In Babylon
 date: '2024-07-18'
 client: 'Type : Money Mindset'
-description: 'In this book , the author '
+description: 'In this book , the author convey the '
 featuredImage:
   type: ImageBlock
   url: /images/bal12732_1024x1024.jpeg.webp
