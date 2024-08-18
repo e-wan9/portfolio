@@ -21,7 +21,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/photo_2024-08-18_08-17-41.jpg
+      url: /images/454596027_1000150235238787_7552973525675964526_n.jpg
       altText: Hero image
     styles:
       self:
