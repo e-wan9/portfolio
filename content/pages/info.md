@@ -171,7 +171,7 @@ sections:
       - type: Label
         label: Python
       - type: Label
-        label: C++
+        label: Content Creating
       - type: Label
         label: Swift
   - type: DividerSection
