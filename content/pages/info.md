@@ -165,7 +165,7 @@ sections:
       - type: Label
         label: School Subjects
       - type: Label
-        label: Microsoft Office
+        label: Copywriting
       - type: Label
         label: Next.js
       - type: Label
