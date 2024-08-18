@@ -32,7 +32,7 @@ sections:
     actions:
       - type: Link
         label: See all contents
-        altText: See all projects
+        altText: See all contents
         url: /projects
         showIcon: false
         icon: arrowRight
