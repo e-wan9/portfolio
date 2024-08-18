@@ -63,7 +63,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
-    title: BOOKS
+    title: MINDSETS
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
