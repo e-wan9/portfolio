@@ -28,13 +28,8 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
-##Mindsets
->The deep meaning of Babylon : The men's ability to achieve great goals
+\##Mindsets
 
->A man's wealth is determine from the amount of money flowing into his purse consistently even when he is chilling, not from the thickness of his purse.
+巴比倫的背後含意：一個人能實現報復的實力
 
->Repeat " Apart of you is all you earn" every day
-
->Cure for lean purse:
->>1.pay yourself first
->>~Preserve you money on assets first, don't let it be taken from you because of you spent it on stupid stuff
+一個人的財富是由流進他錢包源源不斷的金流，而非他錢包的厚度
