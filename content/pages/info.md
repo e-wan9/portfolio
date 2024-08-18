@@ -131,18 +131,15 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **current**
 
-          * ba computer sciense at a semi fancy school
+          *   Kaohsiung Municipal Kaohsiung Senior High School
 
-          **2014**
+          **2020-2023**
 
-          * react certificate somewhere
+          *   St. Dominic Catholic High School
 
-          **2011**
-
-          * my highschool
         styles:
           self:
             textAlign: left
