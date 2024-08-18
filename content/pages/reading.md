@@ -32,7 +32,7 @@ sections:
     actions:
       - type: Link
         label: See all contents
-        altText: See all contents
+        altText: See all DATASET
         url: /projects
         showIcon: false
         icon: arrowRight
