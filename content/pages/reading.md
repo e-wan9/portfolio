@@ -41,7 +41,6 @@ sections:
     projects:
       - content/pages/projects/project-one.md
       - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
     colors: colors-c
     variant: variant-d
     elementId: ''
