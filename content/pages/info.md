@@ -172,8 +172,6 @@ sections:
         label: Python
       - type: Label
         label: Content Creating
-      - type: Label
-        label: ''
   - type: DividerSection
     styles:
       self:
