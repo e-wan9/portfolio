@@ -169,8 +169,6 @@ sections:
       - type: Label
         label: Mindsets
       - type: Label
-        label: Netlify
-      - type: Label
         label: Pancakes
       - type: Label
         label: C++
