@@ -3,9 +3,7 @@ type: ProjectLayout
 title: The Richest Man In Babylon
 date: '2024-07-18'
 client: 'Type : Money Mindset'
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: 'In this book , the author '
 featuredImage:
   type: ImageBlock
   url: /images/bal12732_1024x1024.jpeg.webp
