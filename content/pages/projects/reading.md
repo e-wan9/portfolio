@@ -28,7 +28,7 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
-##Mindsets
+\##Mindsets
 
 > 巴比倫的背後含意：一個人能實現報復的實力
 
@@ -38,4 +38,7 @@ backgroundImage:
 
 > 讓你賺到的錢幫你賺錢
 
-*   讓錢包厚起來的方法
+* 7招讓錢包厚起來 : 
+  >1. 先付款給自己：先將金錢存於資產中，不要因為去購買一些愚蠢的東西讓金錢流失。
+  >2. 控制開銷：如果沒有做預算，收入越多時開銷也會越大
+
