@@ -7,8 +7,9 @@ sections:
     variant: variant-a
     title: Readings Summary
     subtitle: '999'
-    text: |
-      999
+    text: |+
+      MULTIPLY CREATE PRESERVE
+
     elementId: ''
     styles:
       self:
