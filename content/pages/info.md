@@ -13,11 +13,12 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      Hey I'm Ewen Wang, a high school student  focusing on cybersecurity and
+      business. I’m passionate about solving problems and exploring new
+      technologies, and I enjoy applying these skills to real-world situations.
+      I look forward to learning and growing alongside like-minded individuals!
+
     media:
       type: ImageBlock
       url: /images/photo_2024-08-18_08-17-41.jpg
