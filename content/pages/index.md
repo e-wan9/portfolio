@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: i'3wang
+    title: 3wang
     subtitle: Multiply Create Preserve
     styles:
       self:
