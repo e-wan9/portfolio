@@ -28,5 +28,13 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
-#sfa
-###jkl;dsfaa
+##Mindsets
+>The deep meaning of Babylon : The men's ability to achieve great goals
+
+>A man's wealth is determine from the amount of money flowing into his purse consistently even when he is chilling, not from the thickness of his purse.
+
+>Repeat " Apart of you is all you earn" every day
+
+>Cure for lean purse:
+>>1.pay yourself first
+>>~Preserve you money on assets first, don't let it be taken from you because of you spent it on stupid stuff
