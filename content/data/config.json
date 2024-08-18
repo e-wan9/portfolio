@@ -27,13 +27,6 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "youtube"
-            },
-            {
-                "type": "Social",
                 "altText": "Instagram",
                 "label": "Instagram",
                 "url": "https://www.instagram.com/3wan9/",
