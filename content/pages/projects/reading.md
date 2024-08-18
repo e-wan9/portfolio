@@ -28,7 +28,7 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
-\##Mindsets
+##Mindsets
 
 > 巴比倫的背後含意：一個人能實現報復的實力
 
