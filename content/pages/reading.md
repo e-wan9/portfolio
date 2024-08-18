@@ -31,7 +31,7 @@ sections:
     subtitle: ''
     actions:
       - type: Link
-        label: See all contents
+        label: See all DATASET
         altText: See all DATASET
         url: /projects
         showIcon: false
