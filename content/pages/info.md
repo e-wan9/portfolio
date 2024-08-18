@@ -163,7 +163,7 @@ sections:
       - type: Label
         label: CTF
       - type: Label
-        label: React
+        label: School Subjects
       - type: Label
         label: Microsoft Office
       - type: Label
