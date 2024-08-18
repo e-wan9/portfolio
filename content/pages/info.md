@@ -167,7 +167,7 @@ sections:
       - type: Label
         label: Copywriting
       - type: Label
-        label: Next.js
+        label: Mindsets
       - type: Label
         label: Netlify
       - type: Label
