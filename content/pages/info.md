@@ -207,26 +207,17 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: |+
           **Current**
 
-          * freelance @freelance.me
+          *   KSHS 221
+          *   Treasurer of KSSC 115th
+          *   Social Media Manager of SCIST 5th
 
-          **2018-2021**
 
-          * fullstack at this startup
 
-          **2015**
 
-          * senior front-end at this place
 
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left
