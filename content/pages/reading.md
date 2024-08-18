@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Readings Summary
-    subtitle: IYKYK
+    subtitle: '999'
     text: |
       999
     elementId: ''
