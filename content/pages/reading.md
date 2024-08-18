@@ -31,7 +31,7 @@ sections:
     subtitle: readings
     actions:
       - type: Link
-        label: See all projects
+        label: See all contents
         altText: See all projects
         url: /projects
         showIcon: false
