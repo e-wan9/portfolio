@@ -28,7 +28,7 @@ sections:
       text:
         textAlign: left
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: readings
     actions:
       - type: Link
         label: See all projects
