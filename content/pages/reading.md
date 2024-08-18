@@ -40,7 +40,6 @@ sections:
         elementId: ''
     projects:
       - content/pages/projects/project-one.md
-      - content/pages/projects/project-two.md
       - content/pages/projects/reading.md
     colors: colors-c
     variant: variant-d
