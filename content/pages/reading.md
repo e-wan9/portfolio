@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Readings Summary
-    subtitle: '999'
+    subtitle: ''
     text: |+
       MULTIPLY CREATE PRESERVE
 
