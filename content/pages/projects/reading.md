@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: The Richest Man In Babylon
 date: '2024-07-18'
-client: Awesome client
+client: 'Type : Money Mindset'
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
