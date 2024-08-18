@@ -9,7 +9,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/bal12732_1024x1024.jpeg.webp
-  altText: Project thumbnail image
+  altText: ''
   caption: ''
   elementId: ''
 media:
