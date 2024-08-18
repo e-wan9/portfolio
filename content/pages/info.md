@@ -173,7 +173,7 @@ sections:
       - type: Label
         label: Content Creating
       - type: Label
-        label: Swift
+        label: ''
   - type: DividerSection
     styles:
       self:
