@@ -169,7 +169,7 @@ sections:
       - type: Label
         label: Mindsets
       - type: Label
-        label: Pancakes
+        label: Python
       - type: Label
         label: C++
       - type: Label
