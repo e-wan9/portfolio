@@ -9,7 +9,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/bal12732_1024x1024.jpeg.webp
-  altText: ''
+  altText: (Image retrieved from the internet)
   caption: ''
   elementId: ''
 media:
