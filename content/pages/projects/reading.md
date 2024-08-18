@@ -8,7 +8,7 @@ description: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: /images/5b076c3b-9f42-488d-8a87-8de1304470ca.webp
+  url: /images/bal12732_1024x1024.jpeg.webp
   altText: Project thumbnail image
   caption: ''
   elementId: ''
