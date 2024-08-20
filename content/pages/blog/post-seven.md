@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: 小習慣的力量：小習慣是如何造就巨大的個人成長
+title: 小習慣的力量
 colors: colors-a
 date: '2024-06-10'
 author: content/data/team/doris-soto.json
