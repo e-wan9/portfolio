@@ -111,7 +111,7 @@ bottomSections:
 media:
   type: ImageBlock
   url: /images/Screenshot from 2024-08-20 15-46-48.png
-  altText: altText of the image
+  altText: 圖一
   caption: 圖一
   elementId: ''
 ---
