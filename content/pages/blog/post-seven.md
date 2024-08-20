@@ -4,7 +4,7 @@ title: 小習慣的力量
 colors: colors-a
 date: '2024-08-20'
 author: content/data/team/doris-soto.json
-excerpt: 小習慣的力量
+excerpt: 小習慣，一個我們平常並不會在意的東西，往往在最關鍵的時候決定了我們的生死。 這篇文章我想分享一下我的觀點
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
