@@ -61,9 +61,7 @@ sections:
     showReadMoreLink: true
     variant: variant-b
     projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
+      - content/pages/projects/reading.md
     styles:
       self:
         height: auto
@@ -97,7 +95,7 @@ sections:
         label: See all posts
         url: /blog
     posts:
-      - content/pages/blog/post-six.md
+      - content/pages/blog/post-seven.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
@@ -129,7 +127,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "Reachout\U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form

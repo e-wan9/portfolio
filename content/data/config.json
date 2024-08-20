@@ -15,12 +15,12 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
+                "label": "output",
                 "url": "/blog"
             },
             {
                 "type": "Link",
-                "label": "READING",
+                "label": "input",
                 "url": "/reading"
             }
         ],
@@ -29,7 +29,7 @@
                 "type": "Social",
                 "altText": "Instagram",
                 "label": "Instagram",
-                "url": "https://www.instagram.com/3wan9/",
+                "url": "https://www.instagram.com/3wen.w/",
                 "icon": "instagram"
             }
         ],
@@ -50,7 +50,7 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
+                "label": "output",
                 "url": "/blog",
                 "altText": ""
             }
