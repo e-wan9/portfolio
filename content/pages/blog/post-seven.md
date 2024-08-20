@@ -2,7 +2,7 @@
 type: PostLayout
 title: 小習慣的力量
 colors: colors-a
-date: '2024-06-10'
+date: '2024-08-20'
 author: content/data/team/doris-soto.json
 excerpt: 小習慣的力量
 featuredImage:
