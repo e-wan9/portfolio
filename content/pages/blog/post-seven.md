@@ -110,7 +110,7 @@ bottomSections:
         textAlign: left
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/Screenshot from 2024-08-20 15-46-48.png
   altText: altText of the image
   caption: 圖一
   elementId: ''
