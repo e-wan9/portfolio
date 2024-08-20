@@ -61,7 +61,6 @@ sections:
     showReadMoreLink: true
     variant: variant-b
     projects:
-      - content/pages/projects/project-three.md
       - content/pages/projects/reading.md
     styles:
       self:
