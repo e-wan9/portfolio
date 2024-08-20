@@ -50,7 +50,7 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
+                "label": "output",
                 "url": "/blog",
                 "altText": ""
             }
