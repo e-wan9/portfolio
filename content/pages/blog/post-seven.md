@@ -4,7 +4,7 @@ title: 小習慣的力量
 colors: colors-a
 date: '2024-06-10'
 author: content/data/team/doris-soto.json
-excerpt: 'NULL'
+excerpt: AAA
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
