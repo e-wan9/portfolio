@@ -112,7 +112,7 @@ media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/default-image.png'
   altText: altText of the image
-  caption: Caption of the image
+  caption: 圖一
   elementId: ''
 ---
 我記得當時是國中畢業典禮當天，會考放榜，迫不及待地要去查成績，之前自己對答案時我就確定一定至少有5A9+(滿分5A10+)。 登到查榜網站飛速地敲著手機螢幕輸入帳號密碼，顯示了帳號錯誤；再輸入一次，還是錯誤；最後再靜下來仔細核對一次輸入後才成功登入（這邊已經突顯出我隨便的個性了），看到了手機上的成績後我感到有點震驚「5A5+」 ，想說：「不對吧，不是至少9+嗎？這是什麼鬼？」 但事實就在眼前，就是這個成績，跟身邊的人討論過後找到問題的原因了，雖然對待這次考試的態度很認真，但從之前累積到現在隨便應付的壞習慣最終導致兩科圖卡圖錯，差點害我沒有考上想要的高中。 這場小插曲跟我的習慣有關，而且正是『小習慣』 。
