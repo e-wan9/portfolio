@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'NULL'
+title: Luke Belmar Dataset - 積少成多
 colors: colors-a
 date: '2024-02-12'
 client: 'NULL'
