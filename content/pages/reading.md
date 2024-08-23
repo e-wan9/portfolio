@@ -101,6 +101,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
+    title: Datasets
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
