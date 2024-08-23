@@ -4,7 +4,7 @@ title: Luke Belmar Dataset - 積少成多
 colors: colors-a
 date: '2024-08-23'
 client: Ewen Wang
-description: 積少成多
+description: Luke Belmar Dataset - 積少成多
 featuredImage:
   type: ImageBlock
   url: /images/fck-school-luke-belmar-eMBd6HcTn8Q-wSWs_LpkMOg.1400x1394.jpg
