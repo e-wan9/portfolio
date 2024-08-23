@@ -63,7 +63,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
-    title: MINDSETS
+    title: Wealth
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
