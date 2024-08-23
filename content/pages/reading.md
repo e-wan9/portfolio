@@ -65,7 +65,7 @@ sections:
         justifyContent: center
     title: Wealth
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: ''
     actions:
       - type: Link
         label: See all projects
