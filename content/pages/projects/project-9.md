@@ -3,9 +3,7 @@ type: ProjectLayout
 title: 環境重製
 date: '2024-08-23'
 client: 'Ewen Wang '
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: Luke Belmar Dataset 1-2
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
