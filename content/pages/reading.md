@@ -63,7 +63,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
-    title: Wealth
+    title: Wealth mindsets
   - type: FeaturedProjectsSection
     subtitle: ''
     actions:
