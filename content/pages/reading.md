@@ -101,7 +101,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
-    title: Mindsets
+    title: SUCCESS Mindsets
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
