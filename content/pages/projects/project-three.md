@@ -14,7 +14,7 @@ media:
   url: /images/fck-school-luke-belmar-eMBd6HcTn8Q-wSWs_LpkMOg.1400x1394.jpg
   altText: Project image
 ---
-這些Dataset內容都是Luke Belmar在Capital Club裡面的內容，這篇文章要介紹1-1 積少成多：
+這些都是Luke Belmar在Capital Club裡面我學到的內容，這篇文章介紹的是1-1 積少成多：
 
 人生固然短，但成功的旅途是漫長的，我們不可能一下子就達成目標，我們每天的習慣將造就出我是怎們樣的一個人。
 
