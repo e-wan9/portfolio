@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Luke Belmar Dataset - 積少成多
 colors: colors-a
 date: '2024-08-23'
-client: 'NULL'
+client: ''
 description: 'NULL'
 featuredImage:
   type: ImageBlock
