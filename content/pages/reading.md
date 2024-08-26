@@ -115,7 +115,7 @@ sections:
         iconPosition: right
         elementId: ''
     colors: colors-f
-    variant: variant-c
+    variant: variant-b
     elementId: ''
     recentCount: 6
     showDate: false
