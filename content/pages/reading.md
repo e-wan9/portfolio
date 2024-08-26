@@ -140,6 +140,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
+    title: Mental Health
   - type: FeaturedProjectsSection
     subtitle: ''
     actions:
