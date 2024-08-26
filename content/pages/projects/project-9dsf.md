@@ -3,7 +3,7 @@ type: ProjectLayout
 title: 焦慮
 date: '2024-08-26'
 client: ''
-description: ''
+description: Luke Belmar dataset 1-6
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
