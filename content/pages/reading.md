@@ -138,6 +138,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
+    title: Business
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
