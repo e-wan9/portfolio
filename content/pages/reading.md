@@ -141,7 +141,7 @@ sections:
         justifyContent: center
     title: Business
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: ''
     actions:
       - type: Link
         label: See all projects
