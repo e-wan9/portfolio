@@ -3,9 +3,7 @@ type: ProjectLayout
 title: 人脈
 date: '2024-08-26'
 client: Ewen
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: Luke Belmar dataset 1-4
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
