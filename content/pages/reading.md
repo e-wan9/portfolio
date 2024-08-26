@@ -113,8 +113,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
-    projects:
-      - content/pages/projects/project-three.md
+    projects: []
     colors: colors-f
     variant: variant-d
     elementId: ''
