@@ -13,6 +13,13 @@ media:
   type: ImageBlock
   url: /images/fck-school-luke-belmar-eMBd6HcTn8Q-wSWs_LpkMOg.1400x1394.jpg
   altText: Project image
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
 這些Dataset內容都是Luke Belmar在Capital Club裡面的內容，這篇文章要介紹1-5
 
