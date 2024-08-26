@@ -103,7 +103,7 @@ sections:
         justifyContent: center
     title: SUCCESS Mindsets
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: ''
     actions:
       - type: Link
         label: See all projects
