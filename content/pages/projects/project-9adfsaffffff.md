@@ -3,9 +3,7 @@ type: ProjectLayout
 title: 團隊
 date: '2024-08-26'
 client: Ewen Wang
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: Luke Belmar dataset 2-1
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
