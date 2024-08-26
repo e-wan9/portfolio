@@ -13,6 +13,13 @@ media:
   type: ImageBlock
   url: /images/fck-school-luke-belmar-eMBd6HcTn8Q-wSWs_LpkMOg.1400x1394.jpg
   altText: Project image
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
 這些都是Luke Belmar在Capital Club裡面我學到的內容，這篇文章介紹的是1-1 積少成多：
 
