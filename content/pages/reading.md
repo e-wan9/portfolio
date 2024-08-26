@@ -5,7 +5,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: Readings Summary
+    title: Data Input Summary
     subtitle: ''
     text: |+
       MULTIPLY CREATE PRESERVE
