@@ -152,6 +152,7 @@ sections:
         elementId: ''
     projects:
       - content/pages/projects/project-1231223.md
+      - content/pages/projects/project-9adfsaffffff.md
     colors: colors-f
     variant: variant-d
     elementId: ''
