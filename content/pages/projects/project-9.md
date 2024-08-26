@@ -8,7 +8,7 @@ featuredImage:
   type: ImageBlock
   url: /images/fck-school-luke-belmar-eMBd6HcTn8Q-wSWs_LpkMOg.1400x1394.jpg
   altText: Luke Belmar Dataset 1-2
-  caption: ''
+  caption: Luke Belmar Dataset 1-2
   elementId: ''
 media:
   type: ImageBlock
