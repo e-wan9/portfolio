@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 焦慮
 date: '2024-08-26'
-client: 'Ewen '
+client: Ewen Wang
 description: Luke Belmar dataset 1-6
 featuredImage:
   type: ImageBlock
