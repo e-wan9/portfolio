@@ -103,6 +103,41 @@ sections:
       actions:
         justifyContent: center
     title: SUCCESS Mindsets
+  - type: RecentProjectsSection
+    subtitle: Projects
+    actions:
+      - type: Link
+        label: See all projects
+        altText: See all projects
+        url: /projects
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+    colors: colors-d
+    variant: variant-d
+    elementId: ''
+    recentCount: 6
+    showDate: false
+    showDescription: true
+    showFeaturedImage: true
+    showReadMoreLink: true
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: center
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
