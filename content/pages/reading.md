@@ -153,7 +153,6 @@ sections:
     projects:
       - content/pages/projects/project-one.md
       - content/pages/projects/project-99999.md
-      - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
     colors: colors-f
     variant: variant-d
