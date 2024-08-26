@@ -113,7 +113,8 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
-    projects: []
+    projects:
+      - content/pages/projects/project-9dsf.md
     colors: colors-f
     variant: variant-d
     elementId: ''
